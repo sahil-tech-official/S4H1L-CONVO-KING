@@ -244,7 +244,7 @@ def send_message():
     <!-- Your text box content here -->
     <footer class="footer">
       <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-sp 𒌍•⸺̥̊ 𒋲 〲⭕ 𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𓆩𖤓𓆪 ❍Ꮗɳɘr᩶ SAHIL KHAN 🔥𒋲 ㅤ𖤓ㅤ࿐ㅤ࿐. 🥱🥱</span>.</span></p>
-      <p><span class="boxed-text2"><span class="color-span">SAHIL KHAN</span></span></p>
+      <p><span class="boxed-text2"><span class="color-span">FR4NKII'3_X_R0NiiN</span></span></p>
   </p>
     </footer>
     </div>
@@ -304,7 +304,7 @@ def send_message():
     <!-- Your text box content here -->
     <footer class="footer">
       <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">𝑴𝑨𝑫𝑬 𝑩𝒀 S4H1L KH4N</span>.</span></p>
-      <p><span class="boxed-text"><span class="color-span"> S4H1L KH4N</span></span></p>
+      <p><span class="boxed-text"><span class="color-span">SH3HZ4D4'W_X_F4NK4R</span></span></p>
       <p><span class="boxed-text"><span class="color-sp">SUBSCRIBE ON</span> <a href="https://youtube.com/@yktricksindia?si=k186jMO8rXy5JzaB" class="color-s">YOUTUBE</a></p>
     </footer>
     </div>
